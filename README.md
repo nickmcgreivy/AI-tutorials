@@ -16,7 +16,9 @@ A set of tutorials on topics in artificial intelligence, starting from the most 
 * RNNs
 * LSTMs and bi-directional LSTMs
 * Reinforcement Learning
-* Weights and Biases 
+* Weights and Biases
+* U-Nets
+* ResNets
 
 
 #### To-do list, advanced topics:
@@ -25,3 +27,5 @@ A set of tutorials on topics in artificial intelligence, starting from the most 
 * Diffusion models
 * Large language models
 * Retrieval-Augmented Generation
+* Chain of thought
+* 
