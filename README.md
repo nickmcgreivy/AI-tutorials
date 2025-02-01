@@ -19,7 +19,7 @@ A set of tutorials on topics in artificial intelligence, starting from the most 
 * Weights and Biases 
 
 
-#### To-do list, advanced topics
+#### To-do list, advanced topics:
 * Transformers for language models
 * Transformers for vision models
 * Diffusion models
