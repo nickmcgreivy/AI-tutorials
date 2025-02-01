@@ -28,4 +28,4 @@ A set of tutorials on topics in artificial intelligence, starting from the most 
 * Large language models
 * Retrieval-Augmented Generation
 * Chain of thought
-* 
+* Program Synthesis
