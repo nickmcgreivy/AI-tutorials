@@ -3,7 +3,7 @@ A set of tutorials on topics in artificial intelligence, starting from the most 
 
 
 
-To-do list, basic topics:
+#### To-do list, basic topics:
 * Logistic Regression
 * Multilayer Perceptron (MLP)
 * Convolutional Neural Networks with MNIST
@@ -15,3 +15,13 @@ To-do list, basic topics:
 * Word2Vec
 * RNNs
 * LSTMs and bi-directional LSTMs
+* Reinforcement Learning
+* Weights and Biases 
+
+
+#### To-do list, advanced topics
+* Transformers for language models
+* Transformers for vision models
+* Diffusion models
+* Large language models
+* Retrieval-Augmented Generation
