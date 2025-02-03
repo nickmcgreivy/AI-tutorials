@@ -4,7 +4,6 @@ A set of tutorials on topics in artificial intelligence, starting from the most 
 
 
 #### To-do list, basic topics:
-* Multilayer Perceptron (MLP)
 * Convolutional Neural Networks with MNIST
 * Convolutional Neural Networks with CIFAR-10
 * Principal Component Analysis
