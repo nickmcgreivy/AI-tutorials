@@ -7,6 +7,8 @@ A set of tutorials on topics in artificial intelligence, starting from the most 
 * Convolutional Neural Networks with MNIST
 * Convolutional Neural Networks with CIFAR-10
 * Principal Component Analysis
+* t-SNE
+* k-means clustering
 * Dropout
 * BatchNorm
 * Bi-grams and tri-grams
