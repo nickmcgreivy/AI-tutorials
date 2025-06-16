@@ -1,8 +1,8 @@
 # AI-tutorials
-A set of tutorials on topics in artificial intelligence, starting from the most basic topics and progressing to more advanced topics.
+A set of tutorials on topics in machine learning and artificial intelligence, starting from the most basic topics and progressing to more advanced topics.
 
 
-#### To-do list, basic topics:
+#### To-do list:
 * Principal Component Analysis
 * t-SNE
 * k-means clustering
@@ -11,16 +11,12 @@ A set of tutorials on topics in artificial intelligence, starting from the most 
 * RNNs
 * LSTMs and bi-directional LSTMs
 * Reinforcement Learning
-* Weights and Biases
 * U-Nets
 * ResNets
-
-
-#### To-do list, advanced topics:
+* Latent Dirichlet Allocation (LDA)
+* VAEs
 * Transformers for language models
 * Transformers for vision models
 * Diffusion models
 * Large language models
 * Retrieval-Augmented Generation
-* Chain of thought
-* Program Synthesis
